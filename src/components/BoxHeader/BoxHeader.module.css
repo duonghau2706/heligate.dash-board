@@ -1,0 +1,19 @@
+.boxHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.title{ 
+    font-weight: bold;
+    margin: 15px;
+    color: #333333;
+    font-size: 18px;
+}
+
+.filter-control{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}

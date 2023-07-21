@@ -1,0 +1,12 @@
+.doughnutChart {
+  display: flex;
+  flex-grow: 4;
+  /* max-width: 395px;
+  max-height: 235px; */
+  background-color: #FFFFFF;
+  margin: 0 15px 35px;
+  
+  /* box-shadow: -7px 5px 47px -10px rgba(0, 0, 0, 0.35);
+  -webkit-box-shadow: -7px 5px 47px -10px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: -7px 5px 47px -10px rgba(0, 0, 0, 0.35); */
+}

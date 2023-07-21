@@ -1,0 +1,15 @@
+.cases{
+    width: 1113px;
+    /* height: 299px; */
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin: 0 auto;
+    /* transform: translateY(50%); */
+}
+
+.main{
+    display: flex;
+    /* height: 235px; */
+}

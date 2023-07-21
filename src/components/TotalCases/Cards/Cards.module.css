@@ -1,0 +1,8 @@
+.cards {
+  max-width: 65%;
+  padding: 40px 15px;
+  display: flex;
+  flex-grow: 6;
+  border-right: 2px solid #EBEBEB;
+  /* justify-conetent: space-between; */
+}

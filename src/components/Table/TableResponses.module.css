@@ -1,0 +1,15 @@
+.title{
+    font-weight: bold !important;
+}
+
+.active{
+    color: #02A7F0 !important;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+/* .contaniner{
+    width: 653px;
+    height: 275px;
+    height: 700px;
+} */

@@ -1,0 +1,31 @@
+.app {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(242, 242, 242, 1);
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section{
+  margin: 15px 0 !important;
+}
+
+/* .input{
+   width: 149px;
+   height: 35px;
+}
+
+input[type=date] {
+    border-color: aqua;
+    border-radius: 5px;
+  } */
+  
